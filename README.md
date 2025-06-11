@@ -10,13 +10,3 @@
 - Docker & Docker Compose
 - (For local dev) Java 17+, Maven, Node.js, npm
 
-## Quick Start (Docker)
-```sh
-docker-compose up --build
-```
-
-- Backend: http://localhost:8080
-- Frontend: http://localhost:5173
-- MySQL: localhost:3306 (user: root, pass: example)
-
-#
