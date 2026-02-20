@@ -1,4 +1,4 @@
-# Food Delivery Web App
+# Food Delivery Web App 
 
 ## Project Structure
 - `backend/` - Java Spring Boot backend
