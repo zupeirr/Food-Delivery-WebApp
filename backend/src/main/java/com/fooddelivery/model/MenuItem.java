@@ -1,5 +1,5 @@
 package com.fooddelivery.model;
-
+ 
 import jakarta.persistence.*;
 
 @Entity
