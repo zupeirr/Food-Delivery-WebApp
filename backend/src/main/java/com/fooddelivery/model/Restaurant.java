@@ -1,7 +1,7 @@
 package com.fooddelivery.model;
 
 import jakarta.persistence.*;
-
+ 
 @Entity
 @Table(name = "restaurants")
 public class Restaurant {
