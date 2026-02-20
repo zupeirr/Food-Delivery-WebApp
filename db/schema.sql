@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS food_delivery;
-USE food_delivery; 
+USE food_delivery;
 
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
